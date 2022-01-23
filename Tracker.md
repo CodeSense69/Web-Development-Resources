@@ -1,5 +1,4 @@
 # Web Development Tracker
-This is a way to track progress throughout the web development roadmap
 
 ## Front-End
 ### Tutorials 
