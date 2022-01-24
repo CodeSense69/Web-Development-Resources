@@ -2,9 +2,10 @@
 
 ## Front-End
 ### Tutorials 
-- [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg&list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88&index=2)
-- [CSS Full Course - Includes Flexbox and CSS Grid Tutorials](https://www.youtube.com/watch?v=ieTHC78giGQ&list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88&index=3)
-- [CSS3 Animation & Transitions Crash Course](https://www.youtube.com/watch?v=zHUpx90NerM&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=44) 
+- [HTML & CSS Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
+- [CSS Animation](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5)
+- [CSS Flexbox](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG) 
+- [CSS Grid](https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY)
 - [Sass Crash Course](https://www.youtube.com/watch?v=nu5mdN2JIwM&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=50)
 - [Modern JavaScript Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
 - [Asynchronous JavaScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu)
